@@ -1,0 +1,5 @@
+package pl.pjatk.kos.movieservice.model;
+
+public enum Genre {
+    ACTION, ADVENTURE, BIOGRAPHY, COMEDY, CRIME, DRAMA, FAMILY, FANTASY, HISTORY, HORROR, ROMANCE, SCIFI, THRILLER, WAR, WESTERN
+}
